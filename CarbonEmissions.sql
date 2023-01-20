@@ -46,8 +46,9 @@ FROM #SectorData
 GROUP BY Sector
 ORDER BY Avg_SectorPercent desc
 
+----------------------------------------------------------------------
 
---------------------------------------------------------
+
 -- Examines which countries have the most carbon emissions per capita
 Select Substance, Country, [2021]
 FROM CarbonEmisssions..CapitaEmissions
