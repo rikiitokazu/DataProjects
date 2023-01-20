@@ -1,5 +1,5 @@
 --Units--						
---values in CountryEmissions sheet are expressed in Mt CO2/yr 							
+--values in CountryEmissions sheet are expressed in Mt CO2/yr 						
 --values in SectorEmisions sheet are expressed in Mt CO2/yr														
 --values in CapitaEmissions sheet are expressed in t CO2/cap/yr							
 
